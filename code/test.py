@@ -1,1 +1,3 @@
 random = 'code'
+
+print(random)
