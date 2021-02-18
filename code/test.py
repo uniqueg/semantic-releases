@@ -1,3 +1,3 @@
 random = 'code'
 
-print(random)
+print(random + random)
