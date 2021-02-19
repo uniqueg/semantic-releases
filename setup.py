@@ -15,7 +15,7 @@ if os.path.isfile(req):
 setup(
     name="test",
     version=__version__,
-    description="Sandbox for testing semantic releases"
+    description="Sandbox for testing semantic releases",
     url="https://github.com/uniqueg/semantic-releases",
     author="ELIXIR Cloud & AAI",
     author_email="alexander.kanitz@alumni.ethz.ch",
