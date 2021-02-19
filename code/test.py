@@ -1,3 +1,3 @@
-random = 'code'
+random = 'derin'
 
-print(random + random)
+print(random + random + random)
