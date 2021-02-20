@@ -13,7 +13,7 @@ if os.path.isfile(req):
         install_requires = f.read().splitlines()
 
 setup(
-    name="test",
+    name="test-semantic-release",
     version=__version__,
     description="Sandbox for testing semantic releases",
     url="https://github.com/uniqueg/semantic-releases",
