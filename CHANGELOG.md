@@ -2,6 +2,12 @@
 
 <!--next-version-placeholder-->
 
+## v0.5.1 (2021-02-20)
+### Fix
+* Rename package ([`cf8dd52`](https://github.com/uniqueg/semantic-releases/commit/cf8dd52bb6fc10db4d35dc90041b73da3c9dfd2c))
+
+**[See all commits in this version](https://github.com/uniqueg/semantic-releases/compare/v0.5.0...v0.5.1)**
+
 ## v0.5.0 (2021-02-20)
 ### Feature
 * Upload to test pypi ([`25f6898`](https://github.com/uniqueg/semantic-releases/commit/25f6898ddb755b697c06b56673609b8fb38ef94e))
