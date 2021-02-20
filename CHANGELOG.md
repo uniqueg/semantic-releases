@@ -2,6 +2,12 @@
 
 <!--next-version-placeholder-->
 
+## v0.5.0 (2021-02-20)
+### Feature
+* Upload to test pypi ([`25f6898`](https://github.com/uniqueg/semantic-releases/commit/25f6898ddb755b697c06b56673609b8fb38ef94e))
+
+**[See all commits in this version](https://github.com/uniqueg/semantic-releases/compare/v0.4.0...v0.5.0)**
+
 ## v0.4.0 (2021-02-19)
 ### Feature
 * Improved performance ([`3a6e767`](https://github.com/uniqueg/semantic-releases/commit/3a6e767ccf0a629dc383075ca5f32bca536e95cd))
