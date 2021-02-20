@@ -2,6 +2,12 @@
 
 <!--next-version-placeholder-->
 
+## v0.5.2 (2021-02-20)
+### Fix
+* Rename package ([`03d70f7`](https://github.com/uniqueg/semantic-releases/commit/03d70f78ec9912f8cf03eb04d8e2b03aac9cc51e))
+
+**[See all commits in this version](https://github.com/uniqueg/semantic-releases/compare/v0.5.1...v0.5.2)**
+
 ## v0.5.1 (2021-02-20)
 ### Fix
 * Rename package ([`cf8dd52`](https://github.com/uniqueg/semantic-releases/commit/cf8dd52bb6fc10db4d35dc90041b73da3c9dfd2c))
