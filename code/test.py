@@ -1,4 +1,4 @@
-random = 'derin'
+random = 'bla'
 
 print("check this out:")
 print(random * 4)
