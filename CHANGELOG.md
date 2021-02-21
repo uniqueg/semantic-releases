@@ -2,6 +2,23 @@
 
 <!--next-version-placeholder-->
 
+## v1.0.0 (2021-02-21)
+### Feature
+* Breaking change ([#5](https://github.com/uniqueg/semantic-releases/issues/5)) ([`65457c3`](https://github.com/uniqueg/semantic-releases/commit/65457c3926568b1a95898b47a4cd459e331660d0))
+* Yet another feature ([#3](https://github.com/uniqueg/semantic-releases/issues/3)) ([`d9bc916`](https://github.com/uniqueg/semantic-releases/commit/d9bc91619c0193ac217a013a53bca2f0ba144d60))
+* Some feature A ([#1](https://github.com/uniqueg/semantic-releases/issues/1)) ([`d1e726c`](https://github.com/uniqueg/semantic-releases/commit/d1e726c72e589e766c33207442c760c48e16f3a6))
+
+### Fix
+* Some fix ([#4](https://github.com/uniqueg/semantic-releases/issues/4)) ([`1960703`](https://github.com/uniqueg/semantic-releases/commit/1960703b07b205679c5ddb6670edd30b0de0f58d))
+
+### Breaking
+* Breaking change to API ([`65457c3`](https://github.com/uniqueg/semantic-releases/commit/65457c3926568b1a95898b47a4cd459e331660d0))
+
+### Documentation
+* Updated checklist ([`4c305c8`](https://github.com/uniqueg/semantic-releases/commit/4c305c8f363a0135f7d261a46a0b5653b2ed5f3d))
+
+**[See all commits in this version](https://github.com/uniqueg/semantic-releases/compare/v0.5.3...v1.0.0)**
+
 ## v0.5.3 (2021-02-20)
 ### Fix
 * Test Travis ([`623f74d`](https://github.com/uniqueg/semantic-releases/commit/623f74dc7326b73cfd09abfb229e32104c7cc68b))
