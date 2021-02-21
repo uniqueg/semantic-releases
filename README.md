@@ -36,7 +36,7 @@ semantic-release publish
 - [x] Configure PyPI release on <https://test.pypi.org/>
   - Create PyPI token (scope to individual project, if possible)
   - Export `PYPI_TOKEN` environment variable
-- [] Configure Travis CI integration
+- [x] Configure Travis CI integration
   - Set environment variables `GH_TOKEN` and `PYPI_TOKEN` in Travis CI
   - Add commands to configure, install and run `semantic-release` in
     Travis CI:
