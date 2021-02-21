@@ -1,2 +1,2 @@
-random = 'bla'
+random = 'bar'
 print(random * 4)
